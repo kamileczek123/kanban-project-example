@@ -1,13 +1,16 @@
 ---
 name: Story issue template
 about: This is issue template for Story issue type
-title: "[S]"
+title: ''
 labels: Story
 assignees: ''
 
 ---
 
-Description:
-Steps:
-Acceptance criteria:
-Documentation link(s):
+**As a** < type of user >,
+**I want** < some goal >,
+**so that** < some reason/benefit >.
+
+Description*:
+Acceptance Criteria*:
+Useful links:
